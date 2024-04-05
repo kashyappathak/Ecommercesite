@@ -28,7 +28,7 @@
                  <h5 style="border-left: 6px solid black;">Follows on</h5>
                  <div class="underline"></div>
                  <div><a href="#" style="font-weight: bold;"  class="text-decoration-none text-black">Instagram</a></div>
-                 <div><a href="#"style="font-weight: bold;" class="text-decoration-none text-black">Linkedin</a></div>
+                 <div><a href="https://www.linkedin.com/in/pathak-kashyap-a2125b1ba/"style="font-weight: bold;" class="text-decoration-none text-black">Linkedin</a></div>
              </div>
             
             </div>
