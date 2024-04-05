@@ -1,0 +1,45 @@
+.card-shadow{
+    box-shadow: 0 2px 8px 0 rgb(0 0 0 / 10%);
+    border-radius: 5px;
+}
+.category-heading{
+    padding: 10px 12px;
+    border-left: 6px solid #0e019e;
+    background-color: #F1F3F6;
+}
+.post-heading{
+    font-size: 26px;
+    color: #000;
+}
+.kp-border {
+    border-left: 6px solid #0e019e;
+    background-color: #F1F3F6;
+
+}
+
+.owl-nav button.owl-next,
+.owl-nav button.owl-prev{
+
+    background-color: white !important;
+    width: 38px !important;
+    height: 32px;
+    color: #000 !important;
+    margin-left: 10px;
+    border: none !important;
+    outline: none;
+    font-size: 23px !important;
+    font-weight: bold !important;
+}
+.kp{
+    width: 120%;
+    height: 17vh;
+}
+.kashyap{
+    padding: 10px 12px;
+    border-left: 6px solid #000;
+    background-color:lightgray;
+}
+.post-description{
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
